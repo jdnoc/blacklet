@@ -1,0 +1,25 @@
+---
+title: Blacklet
+description: The premium black paper notebook for creatives.
+url: https://onblackpaper.com/blacklet
+baseurl:
+image: img/Notebook_Mockup_ISO.png
+email: contact@onblackpaper.com
+social:
+- title: instagram
+  url: instagram.com/onblackpaper
+- title: pinterest
+  url: pinterest.com/onblackpaper
+- title: twitter
+  url: twitter.com/onblackpaper
+- title: facebook
+  url: facebook.com/onblackpaper
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false

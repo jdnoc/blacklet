@@ -1,0 +1,189 @@
+---
+layout: index
+---
+
+<header class="header">
+  <div class="container-lrg">
+    <div class="col-12 spread">
+      <div>
+        <a class="logo">
+          Blacklet
+        </a>
+      </div>
+      <div>
+        <a class="nav-link" href="https://twitter.com/onblackpaper">
+          Twitter
+        </a>
+        <a class="nav-link" href="https://instagram.com/onblackpaper">
+          Instagram
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="container-lrg flex">
+    <div class="col-6 sidedevices">
+      <div class="iphones">
+        <img class="mask-img" src="img/Notebook_Mockup_ISO.png">
+      </div>
+    </div>
+    <div class="col-6 centervertical">
+      <h1 class="heading">
+        <div>The Premium Black Paper Notebook for Creatives</div>
+      </h1>
+      <h2 class="paragraph ">
+        Find out when it launches!
+      </h2>
+      <div class="ctas">
+        <input class="ctas-input" type="text" placeholder="Your Email Address">
+        <button class="ctas-button">
+          Be Notified
+        </button>
+      </div>
+    </div>
+  </div>
+</header>
+<div class="feature6">
+  <div class="container-sml flex">
+    <div class="col-12">
+      <h3 class="heading">
+        Create Without Compromise
+      </h3>
+      <p class="paragraph">
+        We've created the world's first premium black paper notebook as a portable foundation for creating - without sacrificing functionality or style.
+      </p>
+      <div>
+        <br>
+      </div>
+      <p class="paragraph">
+        When it comes to notebooks - we noticed something. Why aren't there any great options for notebooks with black paper?
+      </p>
+      <div>
+        <br>
+      </div>
+      <p class="paragraph">
+        As of right now, the best way to do creative work on black paper is to buy a pack of black cardstock. That's unprofessional, unportable, and frankly unacceptable.
+      </p>
+      <div>
+        <br>
+      </div>
+      <p class="paragraph">
+        <strong>No more buying stacks of cardstock. No more cheap ring bound notebooks. No more excuses. Create beautiful work on a notebook that makes a statement.</strong>
+      </p>
+      <div>
+        <br>
+      </div>
+      <p class="paragraph">
+        We want to enable the creative community to have the best medium possible for creative work on black paper. 
+      </p>
+      <div>
+        <br>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="feature5">
+  <div class="container-sml text-center">
+    <div class="col-12">
+      <h3 class="heading">
+        Better Than Anything Else
+      </h3>
+    </div>
+  </div>
+  <div class="container-lrg flex">
+    <div class="col-5 centervertical">
+      <div class="steps">
+        <h3 class="subheading">
+          A5 Portait Notebook 📙
+        </h3>
+        <p class="paragraph">
+          We heard your complaints and delivered. The A5 size of the Blacklet is the perfect balance between page-size and portability. 
+        </p>
+      </div>
+      <div class="steps">
+        <h3 class="subheading">
+          Smooth, Durable Paper 📝
+        </h3>
+        <p class="paragraph">
+          Boasting <strong>250 blank pages</strong> of 89 GSM Super Smooth paper, the Blacklet can be used with pen, colored pencil, chalk, or any other creative utensil. 
+        </p>
+      </div>
+      <div class="steps">
+        <h3 class="subheading">
+          Made In The U.S.A. 🇺🇸
+        </h3>
+        <p class="paragraph">
+          This isn't some cheap knockoff. Consider this the Ferrari of notebooks - crafted with the utmost care and attention to detail creatives deserve.
+        </p>
+      </div>
+    </div>
+    <div class="col-1">
+    </div>
+    <div class="col-6">
+      <div class="sidedevices">
+        <div class="iphones">
+          <img class="mask-img" src="img/Notebook_Mockup_PaperClip.png">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="socialproof">
+  <div class="container-sml">
+    <div class="text-center">
+      <div class="col-12">
+        <h4 class="heading">
+          Be A Part Of Something Big
+        </h4>
+        <p class="paragraph">
+          We want to make the best notebook for you. <br><br>Contact us on <a href="https://twitter.com/onblackpaper">Twitter</a>, a <a href="https://facebook.com/onblackpaper">Facebook</a> or <a href="mailto:contact@onblackpaper.com">Email</a> and let us know what you'd like to see in the Blacklet.
+        </p>
+        <div>
+          <br>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="footer">
+  <div class="container-sml text-center">
+    <div class="col-12">
+      <h5 class="heading">
+        Find Out When It Launches!
+      </h5>
+      <div class="ctas">
+        <input class="ctas-input" type="text" placeholder="Your Email Address">
+        <button class="ctas-button">
+          Be Notified
+        </button>
+      </div>
+    </div>
+  </div>
+  <div class="container-sml footer-nav">
+    <div class="col-12 text-center">
+      <div>
+        <a class="nav-link">
+          Twitter
+        </a>
+        <a class="nav-link" href="https://facebook.com/onblackpaper">
+          Facebook
+        </a>
+        <a class="nav-link" href="https://instagram.com/onblackpaper">
+          Instagram
+        </a>
+        <a class="nav-link" href="https://pinterest.com/onblackpaper">
+          Pinterest
+        </a>
+        <a class="nav-link" href="mailto:contact@onblackpaper.com">
+          Contact
+        </a>
+      </div>
+      <br>
+      <div>
+        <span>
+          © 20{{ site.time | date: '%y' }} On Black Paper
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5919d9dbf5ee9aab"></script>
