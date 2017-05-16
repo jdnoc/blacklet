@@ -35,10 +35,21 @@ layout: index
         Find out when it launches!
       </h2>
       <div class="ctas">
-        <input class="ctas-input" type="text" placeholder="Your Email Address">
-        <button class="ctas-button">
-          Be Notified
-        </button>
+        <div id="mc_embed_signup">
+          <form action="//onblackpaper.us15.list-manage.com/subscribe/post?u=9df595b9df5a4f10eea3da669&amp;id=5f986c3f6f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <div id="mc_embed_signup_scroll">
+              <input type="email" value="" name="EMAIL" class="required email ctas-input" id="mce-EMAIL"  placeholder="Your Email Address">
+              <input type="submit" value="Be Notified" name="be notified" id="mc-embedded-subscribe" class="button ctas-button">
+              <br><br>
+              <div id="mce-responses" class="clear">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+              </div>
+            </div>
+          </form>
+        </div>
+        <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+        <!--End mc_embed_signup-->
       </div>
     </div>
   </div>
@@ -137,7 +148,7 @@ layout: index
         </h4>
         <p class="paragraph">
           We want to make the best notebook for you. <br><br>
-          The Blacklet is still in the prototype phase, most things won't change but some things will. <br><br> Contact us on <a href="https://twitter.com/onblackpaper">Twitter</a>, a <a href="https://facebook.com/onblackpaper">Facebook</a> or <a href="mailto:contact@onblackpaper.com">Email</a> and let us know what you'd like to see in the Blacklet.<br><br> Soon, blacklet will be launching a kickstarter campaing. When it's launched, we will let you know. We want you to be a part of this journey!<br><br>
+          The Blacklet is still in the prototype phase, most things won't change but some things will. <br><br> Contact us on <a href="https://twitter.com/onblackpaper">Twitter</a>, a <a href="https://facebook.com/onblackpaper">Facebook</a> or <a href="mailto:contact@onblackpaper.com">Email</a> and let us know what you'd like to see in the Blacklet.<br><br> Soon we will be launching a kickstarter campaing. When it's launched, we will let you know. We want you to be a part of this journey!<br><br>
         </p>
         <!-- Sharingbutton Facebook -->
 <a class="resp-sharing-button__link" href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fonblackpaper.com%2Fblacklet" target="_blank" aria-label="Share on Facebook">
@@ -193,10 +204,21 @@ layout: index
         Find Out When It Launches!
       </h5>
       <div class="ctas">
-        <input class="ctas-input" type="text" placeholder="Your Email Address">
-        <button class="ctas-button">
-          Be Notified
-        </button>
+        <div id="mc_embed_signup">
+        <form action="//onblackpaper.us15.list-manage.com/subscribe/post?u=9df595b9df5a4f10eea3da669&amp;id=5f986c3f6f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+          <div id="mc_embed_signup_scroll">
+            <input type="email" value="" name="EMAIL" class="required email ctas-input" id="mce-EMAIL"  placeholder="Your Email Address">
+            <input type="submit" value="Be Notified" name="be notified" id="mc-embedded-subscribe" class="button ctas-button">
+            <br><br>
+            <div id="mce-responses" class="clear">
+              <div class="response" id="mce-error-response" style="display:none"></div>
+              <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>
+        </div>
+        </form>
+        </div>
+        <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+        <!--End mc_embed_signup-->
       </div>
     </div>
   </div>
