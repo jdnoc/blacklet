@@ -39,33 +39,8 @@ layout: index
         <button class="ctas-button">
           Be Notified
         </button>
-        <script type="text/javascript">
-function CheckField838745(fldName, frm){ if ( frm[fldName].length ) { for ( var i = 0, l = frm[fldName].length; i < l; i++ ) {  if ( frm[fldName].type =='select-one' ) { if( frm[fldName][i].selected && i==0 && frm[fldName][i].value == '' ) { return false; }  if ( frm[fldName][i].selected ) { return true; } }  else { if ( frm[fldName][i].checked ) { return true; } }; } return false; } else { if ( frm[fldName].type == "checkbox" ) { return ( frm[fldName].checked ); } else if ( frm[fldName].type == "radio" ) { return ( frm[fldName].checked ); } else { frm[fldName].focus(); return (frm[fldName].value.length > 0); }} }
-function rmspaces(x) {var leftx = 0;var rightx = x.length -1;while ( x.charAt(leftx) == ' ') { leftx++; }while ( x.charAt(rightx) == ' ') { --rightx; }var q = x.substr(leftx,rightx-leftx + 1);if ( (leftx == x.length) && (rightx == -1) ) { q =''; } return(q); }
-function checkfield(data) {if (rmspaces(data) == ""){return false;}else {return true;}}
-function isemail(data) {var flag = false;if (  data.indexOf("@",0)  == -1 || data.indexOf("\\",0)  != -1 ||data.indexOf("/",0)  != -1 ||!checkfield(data) ||  data.indexOf(".",0)  == -1  ||  data.indexOf("@")  == 0 ||data.lastIndexOf(".") < data.lastIndexOf("@") ||data.lastIndexOf(".") == (data.length - 1)   ||data.lastIndexOf("@") !=   data.indexOf("@") ||data.indexOf(",",0)  != -1 ||data.indexOf(":",0)  != -1 ||data.indexOf(";",0)  != -1  ) {return flag;} else {var temp = rmspaces(data);if (temp.indexOf(' ',0) != -1) { flag = true; }var d3 = temp.lastIndexOf('.') + 4;var d4 = temp.substring(0,d3);var e2 = temp.length  -  temp.lastIndexOf('.')  - 1;var i1 = temp.indexOf('@');if (  (temp.charAt(i1+1) == '.') || ( e2 < 1 ) ) { flag = true; }return !flag;}}
-function _checkSubmit838745(frm){
-if ( !CheckField838745("fldfirstname", frm) ) { 
-   alert("Please enter the First Name");
-   return false;
-}
-if ( !isemail(frm["fldEmail"].value) ) { 
-   alert("Please enter the Email Address");
-   return false;
-}
- return true; }
-</script>
-<form style="display:inline;" action="https://lb.benchmarkemail.com//code/lbform" method=post name="frmLB838745" accept-charset="UTF-8" onsubmit="return _checkSubmit838745(this);" >
-<input type=hidden name=successurl value="http://www.benchmarkemail.com/Code/ThankYouOptin" />
-<input type=hidden name=errorurl value="http://lb.benchmarkemail.com//Code/Error" />
-<input type=hidden name=token value="mFcQnoBFKMRZqtF5qlDoVuZXUawFafLCU%2B9C4Vtl99IF7QYrl9KV0w%3D%3D" />
-<input type=hidden name=doubleoptin value="" />
-<fieldset class="formbox-field-email-838745">
-<input type=text placeholder="Email Address *" class="formbox-field-838745" name="fldEmail" maxlength=100 />
-</fieldset>
-
-<fieldset><button type="submit" id="btnSubmit" krydebug="1751" class="formbox-button-838745">Be Notified</button></fieldset></form>
-
+      </div>
+    </div>
   </div>
 </header>
 <div class="feature6">
