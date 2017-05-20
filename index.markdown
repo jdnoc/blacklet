@@ -1,4 +1,6 @@
---- layout: index ---
+--- 
+layout: index 
+---
 
 <body class="theme--square" data-reveal-selectors="section:not(.masonry):not(:first-of-type):not(.parallax)">
 	<div class="main-container">
