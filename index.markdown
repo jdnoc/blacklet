@@ -14,15 +14,12 @@ layout: index
 		                            <form class="form--merge form--no-labels" action="//onblackpaper.us15.list-manage.com/subscribe/post?u=9df595b9df5a4f10eea3da669&amp;id=5f986c3f6f"><label for="mce-EMAIL">Email Address </label><input value="" name="EMAIL" class="col-md-8 col-sm-6" type="email"><div aria-hidden="true" class="hidden"><input name="b_9df595b9df5a4f10eea3da669_5f986c3f6f" tabindex="-1" value="" type="text"></div><input value="Get Notified" name="get-notified" class="col-md-4 col-sm-6" type="submit"></form>
 		                        </div>
 		                    </div>
-		                    
 		                    <div class="row">
 		                        <div class="col-sm-12 text-center">
 		                            <img class="cover__image" alt="Device" src="img/Notebook_Mockup_ISO.png">
 		                        </div>
 		                    </div>
-		                    
 		                </div>
-		                
 		            </section><section>
 		                <div class="container">
 		                    <div class="row">
@@ -31,9 +28,7 @@ layout: index
 		                            <p class="lead"> We've created the world's first premium black paper notebook as a portable foundation for creating - without sacrificing functionality or style.<br><br>When it comes to notebooks - we noticed something. Why aren't there any great options for notebooks with black paper?<br><br>As of right now, the best way to do creative work on black paper is to buy a pack of black card-stock. That's unprofessional, unportable, and frankly unacceptable.<br><br>No more buying stacks of card-stock. No more cheap ring bound notebooks. No more excuses. Create beautiful work on a notebook that makes a statement.<br><br>We want to enable the creative community to have the best medium possible for creative work on black paper. </p>
 		                        </div>
 		                    </div>
-		                    
 		                </div>
-		                
 		            </section><section class="imagebg image--light height-60 parallax" data-overlay="1">
 		                <div class="background-image-holder">
 		                    <img alt="image" src="img/Notebook_StockPhoto.png">
@@ -49,9 +44,7 @@ layout: index
 		                            </div>
 		                        </div>
 		                    </div>
-		                    
 		                </div>
-		                
 		            </section><section class="features features-5">
 		                <div class="container">
 		                    <div class="row">
@@ -102,14 +95,11 @@ layout: index
 		                                </p>
 		                            </div>
 		                        </div>
-		                        
 		                        <div class="col-sm-12">
 		                            <img alt="device" src="img/Notebook_Mockup_PaperClip.png">
 		                        </div>
 		                    </div>
-		                    
 		                </div>
-		                
 		            </section><section>
 		                <div class="container">
 		                    <div class="row">
@@ -141,9 +131,7 @@ layout: index
 		                            </div>
 		                        </div>
 		                    </div>
-		                    
 		                </div>
-		                
 		            </section><section class="subscribe subscribe-2">
 		                <div class="container">
 		                    <div class="row">
@@ -153,21 +141,17 @@ layout: index
 		                            </div>
 		                        </div>
 		                    </div>
-		                    
 		                    <div class="row text-center">
 		                        <div class="col-md-6 col-md-offset-3">
 		                            <form class="form--merge form--no-labels" action="//onblackpaper.us15.list-manage.com/subscribe/post?u=9df595b9df5a4f10eea3da669&amp;id=5f986c3f6f"><label for="mce-EMAIL">Email Address </label><input value="" name="EMAIL" class="col-md-8 col-sm-6" type="email"><div aria-hidden="true" class="hidden"><input name="b_9df595b9df5a4f10eea3da669_5f986c3f6f" tabindex="-1" value="" type="text"></div><input value="Get Notified" name="get-notified" class="col-md-4 col-sm-6" type="submit"></form>
 		                            <span>Don’t worry, we’ll only send you the best stuff - no spam.</span>
 		                        </div>
 		                    </div>
-		                    
 		                </div>
-		                
-		            </section>
-					
+		            </section>	
 		<footer class="footer-3 bg--white text-center-xs">
 		    <div class="col-sm-3">
-		        <img alt="logo" class="logo" src="img/Blacklet-logo.png"><a class="type--underline" href="mailto:hello@betterlettering.net">hello@betterlettering.net</a>
+		        <img alt="logo" class="logo" src="img/Blacklet-logo.png"><a class="type--underline" href="mailto:hello@betterlettering.com">hello@betterlettering.com</a>
 		    </div>
 		    <div class="col-sm-6 text-center">
 		        <ul class="footer__navigation">
@@ -203,12 +187,5 @@ layout: index
 		    </div>
 		</footer>
 		</div>
-		
-				
-		<script src="js/jquery-2.1.4.min.js"></script>
-        <script src="js/scrollreveal.min.js"></script>
-        <script src="js/parallax.js"></script>
-        <script src="js/scripts.js"></script>
     </body>
-</html>
 				
