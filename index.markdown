@@ -115,7 +115,7 @@ layout: index
 		                                </div>
 		                                <div class="feature__right">
 		                                    <h5>We want to make the best notebook for you</h5>
-		                                    <p>Blacklet is still in the prototype phase, most things won't change but some things will. <br><br> Contact us on <a href="https://twitter.com/betterlettering">Twitter</a>, <a href="https://facebook.com/betterlettering">Facebook</a> or <a href="mailto:blacklet@betterlettering.com">Email</a> and let us know what you'd like to see.<br><br>We will be launching a kickstarter campaing soon. Sign up for our email list to be notified when it launches. We are excited, and want you to be a part of this journey!<br><br></p>
+		                                    <p>Blacklet is still in the prototype phase, most things won't change but some things will. <br><br> Contact us on <a href="https://twitter.com/betterlettering">Twitter</a>, <a href="https://facebook.com/betterlettering">Facebook</a> or <a href="mailto:blacklet@betterlettering.com">Email</a> and let us know what you'd like to see.<br><br>We will be launching a kickstarter campaign soon. Sign up for our email list to be notified when it launches. We are excited, and want you to be a part of this journey!<br><br></p>
 		                                </div>
 		                            </div>
 		                        </div>
