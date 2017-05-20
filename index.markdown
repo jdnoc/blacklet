@@ -25,7 +25,7 @@ layout: index
 		                    <div class="row">
 		                        <div class="col-sm-8 col-sm-offset-2 text-center">
 		                            <h3> Create Without Compromise</h3>
-		                            <p class="lead"> We've created the world's first premium black paper notebook as a portable foundation for creating - without sacrificing functionality or style.<br><br>When it comes to notebooks - we noticed something. Why aren't there any great options for notebooks with black paper?<br><br>As of right now, the best way to do creative work on black paper is to buy a pack of black cardstock. That's unprofessional, unportable, and frankly unacceptable.<br><br><strong>No more buying stacks of cardstock. No more cheap ring bound notebooks. No more excuses. Create beautiful work on a notebook that makes a statement.</strong><br><br>We want to enable the creative community to have the best medium possible for creative work on black paper. </p>
+		                            <p class="lead"> We've created the world's first premium black paper notebook - without sacrificing functionality or style.<br><br>When it comes to notebooks - we noticed something was missing. Why aren't there any great options for notebooks with black paper?<br><br>As of right now, the best way to do creative work on black paper is to buy a pack of black cardstock. That's unprofessional, unportable, and frankly unacceptable.<br><br><strong>No more buying stacks of cardstock. No more cheap ring bound notebooks. No more excuses. Create beautiful work on a notebook that makes a statement.</strong><br><br>We want to enable the creative community to have the best medium possible for work on black paper. </p>
 		                        </div>
 		                    </div>
 		                </div>
@@ -51,7 +51,7 @@ layout: index
 		                        <div class="col-sm-12 text-center">
 		                            <h3>Bold, Simple, Quality.</h3>
 		                            <p class="lead">
-		                                Blacklet is more than just a notebook. It's a statement; a commitment to better creative work.
+		                                Blacklet is more than just a notebook. It's a statement.
 		                            </p>
 		                        </div>
 		                        <div class="col-md-5 col-md-offset-1 col-sm-6">
@@ -61,7 +61,7 @@ layout: index
 		                                    <h4>A5 Portait Notebook</h4>
 		                                </div>
 		                                <p>
-		                                    We heard your complaints and delivered. The A5 size of Blacklet is the perfect balance between page-size and portability.
+		                                    We heard your complaints and delivered. The size of Blacklet is the perfect balance between page size and portability.
 		                                </p>
 		                            </div>
 		                        </div><div class="col-md-5 col-md-offset-1 col-sm-6">
@@ -71,7 +71,7 @@ layout: index
 		                                    <h4>Smooth, Durable Paper</h4>
 		                                </div>
 		                                <p>
-		                                     Boasting <strong>250 blank pages</strong> of 89 GSM Super Smooth paper, Blacklet can be used with pen, colored pencil, chalk, or any other creative utensil.
+		                                     Boasting <strong>250 blank pages</strong> of 89 GSM Super Smooth paper, Blacklet can be used with pen, colored pencil, chalk, marker, paint or any other creative utensil.
 		                                </p>
 		                            </div>
 		                        </div><div class="col-md-5 col-md-offset-1 col-sm-6">
@@ -115,7 +115,7 @@ layout: index
 		                                </div>
 		                                <div class="feature__right">
 		                                    <h5>We want to make the best notebook for you</h5>
-		                                    <p>Blacklet is still in the prototype phase, most things won't change but some things will. <br><br> Contact us on <a href="https://twitter.com/betterlettering">Twitter</a>, a <a href="https://facebook.com/betterlettering">Facebook</a> or <a href="mailto:hello@betterlettering.com">Email</a> and let us know what you'd like to see in Blacklet.<br><br> Soon, we will be launching a kickstarter campaing. When it's launched, we will let you know. We want you to be a part of this journey!<br><br></p>
+		                                    <p>Blacklet is still in the prototype phase, most things won't change but some things will. <br><br> Contact us on <a href="https://twitter.com/betterlettering">Twitter</a>, <a href="https://facebook.com/betterlettering">Facebook</a> or <a href="mailto:blacklet@betterlettering.com">Email</a> and let us know what you'd like to see.<br><br>We will be launching a kickstarter campaing soon. Sign up for our email list to be notified when it launches. We are excited, and want you to be a part of this journey!<br><br></p>
 		                                </div>
 		                            </div>
 		                        </div>
@@ -190,7 +190,7 @@ layout: index
 		            </section>	
 		<footer class="footer-3 bg--white text-center-xs">
 		    <div class="col-sm-3">
-		        <img alt="logo" class="logo" src="img/Blacklet-logo.png"><a class="type--underline" href="mailto:hello@betterlettering.com">hello@betterlettering.com</a>
+		        <img alt="logo" class="logo" src="img/Blacklet-logo.png"><a class="type--underline" href="mailto:blacklet@betterlettering.com">blacklet@betterlettering.com</a>
 		    </div>
 		    <div class="col-sm-6 text-center">
 		        <ul class="footer__navigation">
