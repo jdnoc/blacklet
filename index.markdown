@@ -1,5 +1,6 @@
 --- 
 layout: index 
+image: img/Notebook_Mockup_ISO.png
 ---
 
 <body class="theme--square" data-reveal-selectors="section:not(.masonry):not(:first-of-type):not(.parallax)">
