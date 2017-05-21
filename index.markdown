@@ -12,7 +12,7 @@ image: img/Notebook_Mockup_ISO.png
 						<img alt="Logo" class="logo" src="img/Blacklet-logo.png">
 						<p class="lead">The Premium Black Paper Notebook for Creatives</p>
 						<h4>Find out when it launches!</h4>
-						<form class="form--merge form--no-labels" action="https://onblackpaper.us15.list-manage.com/subscribe/post?u=9df595b9df5a4f10eea3da669&amp;id=5f986c3f6f"><label for="mce-EMAIL">Email Address </label><input value="" name="EMAIL" class="col-md-8 col-sm-6" type="email">
+						<form class="form--merge form--no-labels" action="https://blacklet.us15.list-manage.com/subscribe/post?u=9df595b9df5a4f10eea3da669&amp;id=9f495d10f6"><label for="mce-EMAIL">Email Address </label><input value="" name="EMAIL" class="col-md-8 col-sm-6" type="email">
 							<div aria-hidden="true" class="hidden"><input name="b_9df595b9df5a4f10eea3da669_5f986c3f6f" tabindex="-1" value="" type="text"></div><input value="Get Notified"
 							    name="get-notified" class="col-md-4 col-sm-6" type="submit"></form>
 					</div>
