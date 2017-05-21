@@ -1,19 +1,15 @@
 ---
 title: Blacklet
 description: The premium black paper notebook for creatives
-url: https://betterlettering.com/blacklet
+url: https://blacklet.com
 baseurl:
 image: img/Notebook_Mockup_ISO.png
-email: hello@betterlettering.com
+email: contact@blacklet.com
 social:
 - title: instagram
-  url: instagram.com/betterlettering
+  url: instagram.com/getblacklet
 - title: pinterest
-  url: pinterest.com/betterlettering
-- title: twitter
-  url: twitter.com/betterlettering
-- title: facebook
-  url: facebook.com/betterlettering
+  url: pinterest.com/getblacklet
 
 gems:
   - jekyll-seo-tag
