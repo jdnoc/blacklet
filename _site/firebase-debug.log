@@ -1,0 +1,30 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /home/jordan/.nvm/versions/node/v7.10.0/bin/node /home/jordan/.nvm/versions/node/v7.10.0/bin/firebase deploy
+[debug] CLI Version:  3.9.0
+[debug] Platform:     linux
+[debug] Node Version: v7.10.0
+[debug] Time:         Wed May 31 2017 15:53:17 GMT-0400 (EDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token { refresh_token: '1/fVyUyNNzVfIckR2TxTOAkfbDFpuyGHimQzOVB5nWuhc',
+  client_id: '563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com',
+  client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
+  grant_type: 'refresh_token',
+  scope: 'email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid' } 
+ Wed May 31 2017 15:53:17 GMT-0400 (EDT)
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/blacklet-notebook  
+ Wed May 31 2017 15:53:18 GMT-0400 (EDT)
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/blacklet-notebook/tokens  
+ Wed May 31 2017 15:53:19 GMT-0400 (EDT)
+[debug] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'blacklet-notebook'...
+[info] 
+[info] i  deploying hosting
+[info] i  hosting: preparing _site directory for upload...
+[debug] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/blacklet-notebook/uploads/-KlV3SnADc4zMq0u_FL5?fileCount=77&message=  
+ Wed May 31 2017 15:53:24 GMT-0400 (EDT)
