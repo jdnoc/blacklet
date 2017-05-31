@@ -91,8 +91,8 @@ image: img/Notebook_Mockup_ISO.png
 					<div class="col-md-5 col-md-offset-1 col-sm-6">
 						<div class="feature feature-2">
 							<div class="feature__title">
-								<i class="icon icon-United-States"></i>
-								<h4>Made In The U.S.A.</h4>
+								<i class="icon icon-Yes"></i>
+								<h4>One Of A Kind</h4>
 							</div>
 							<p>
 								This isn't some cheap knockoff. Consider this the Ferrari of notebooks - crafted with the utmost care and attention to detail
