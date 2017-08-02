@@ -4,6 +4,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/legal.html</loc>
+</url>
+<url>
 <loc>http://localhost:4000/thanks.html</loc>
 </url>
 </urlset>

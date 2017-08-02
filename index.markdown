@@ -11,10 +11,9 @@ image: img/Notebook_Mockup_ISO.png
 					<div class="col-sm-6 col-sm-offset-3 text-center">
 						<img alt="Logo" class="logo" src="img/Blacklet-logo.png">
 						<p class="lead">The Premium Black Paper Notebook for Creatives</p>
-						<h4>Find out when it launches!</h4>
-						<form class="form--merge form--no-labels" action="https://blacklet.us15.list-manage.com/subscribe/post?u=9df595b9df5a4f10eea3da669&amp;id=9f495d10f6"><label for="mce-EMAIL">Email Address </label><input value="" name="EMAIL" class="col-md-8 col-sm-6" type="email">
-							<div aria-hidden="true" class="hidden"><input name="b_9df595b9df5a4f10eea3da669_5f986c3f6f" tabindex="-1" value="" type="text"></div><input value="Get Notified"
-							    name="get-notified" class="col-md-4 col-sm-6" type="submit"></form>
+						<h4>Subscribers to our messenger bot will get 30% off when it launches!</h4>
+						<span><h5>Tap the button!</h5>
+						<script> window.fbAsyncInit = function() { FB.init({ appId: "1678638095724206", xfbml: true, version: "v2.6" }); }; (function(d, s, id){ var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) { return; } js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); </script> <div class="fb-send-to-messenger" messenger_app_id="1678638095724206" page_id="236464230167265" data-ref="" color="blue" size="xlarge"> </div></span>
 					</div>
 				</div>
 				<div class="row">
@@ -158,7 +157,6 @@ image: img/Notebook_Mockup_ISO.png
 											</svg>
 										</div>Share on Facebook</div>
 								</a>
-
 								<!-- Sharingbutton Twitter -->
 								<a class="resp-sharing-button__link" href="https://twitter.com/intent/tweet/?text=Blacklet%20%7C%20The%20premium%20black%20paper%20notebook%20for%20creatives.&amp;url=https%3A%2F%2Fblacklet.com"
 								    target="_blank" aria-label="Share on Twitter">
@@ -170,7 +168,6 @@ image: img/Notebook_Mockup_ISO.png
 											</svg>
 										</div>Share on Twitter</div>
 								</a>
-
 								<!-- Sharingbutton Google+ -->
 								<a class="resp-sharing-button__link" href="https://plus.google.com/share?url=https%3A%2F%2Fblacklet.com" target="_blank"
 								    aria-label="Share on Google+">
@@ -182,7 +179,6 @@ image: img/Notebook_Mockup_ISO.png
 											</svg>
 										</div>Share on Google+</div>
 								</a>
-
 								<!-- Sharingbutton E-Mail -->
 								<a class="resp-sharing-button__link" href="mailto:?subject=Blacklet%20%7C%20The%20premium%20black%20paper%20notebook%20for%20creatives.&amp;body=https%3A%2F%2Fblacklet.com"
 								    target="_self" aria-label="Share by E-Mail">
@@ -194,7 +190,6 @@ image: img/Notebook_Mockup_ISO.png
 											</svg>
 										</div>Share by E-Mail</div>
 								</a>
-
 								<!-- Sharingbutton Pinterest -->
 								<a class="resp-sharing-button__link" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fblacklet.com&amp;media=https%3A%2F%2Fblacklet.com&amp;description=Blacklet%20%7C%20The%20premium%20black%20paper%20notebook%20for%20creatives."
 								    target="_blank" aria-label="Share on Pinterest">
@@ -206,7 +201,6 @@ image: img/Notebook_Mockup_ISO.png
 											</svg>
 										</div>Share on Pinterest</div>
 								</a>
-
 								<!-- Sharingbutton Reddit -->
 								<a class="resp-sharing-button__link" href="https://reddit.com/submit/?url=https%3A%2F%2Fblacklet.com" target="_blank" aria-label="Share on Reddit">
 									<div class="resp-sharing-button resp-sharing-button--reddit resp-sharing-button--large">
@@ -219,25 +213,6 @@ image: img/Notebook_Mockup_ISO.png
 								</a>
 							</div>
 						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<section class="subscribe subscribe-2">
-			<div class="container">
-				<div class="row">
-					<div class="col-sm-12 text-center">
-						<div class="subscribe__title">
-							<h4>Find out when it launches!</h4>
-						</div>
-					</div>
-				</div>
-				<div class="row text-center">
-					<div class="col-md-6 col-md-offset-3">
-						<form class="form--merge form--no-labels" action="https://onblackpaper.us15.list-manage.com/subscribe/post?u=9df595b9df5a4f10eea3da669&amp;id=5f986c3f6f"><label for="mce-EMAIL">Email Address </label><input value="" name="EMAIL" class="col-md-8 col-sm-6" type="email">
-							<div aria-hidden="true" class="hidden"><input name="b_9df595b9df5a4f10eea3da669_5f986c3f6f" tabindex="-1" value="" type="text"></div><input value="Get Notified"
-							    name="get-notified" class="col-md-4 col-sm-6" type="submit"></form>
-						<span>Don’t worry, we’ll only send you the best stuff - no spam.</span>
 					</div>
 				</div>
 			</div>
@@ -261,23 +236,17 @@ image: img/Notebook_Mockup_ISO.png
 				</ul>
 			</div>
 			<div class="col-sm-3 text-right text-center-xs">
-				<!--<ul class="social-list">
+				<ul class="social-list">
 				<li>
-					<a href="https://instagram.com/betterlettering"><i class="socicon-instagram"></i></a>
+					<a href="https://instagram.com/theblacklet"><i class="socicon-instagram"></i></a>
 				</li>
 				<li>
-					<a href="https://twitter.com/betterlettering"><i class="socicon-twitter"></i></a>
+					<a href="https://twitter.com/theblacklet"><i class="socicon-twitter"></i></a>
 				</li>
 				<li>
-					<a href="https://facebook.com/betterlettering"><i class="socicon-facebook"></i></a>
+					<a href="https://facebook.com/theblacklet"><i class="socicon-facebook"></i></a>
 				</li>
-				<li>
-					<a href="pinterest.com/betterlettering"><i class="socicon-pinterest"></i></a>
-				</li>
-				<li>
-					<a href="youtube.com/betterlettering"><i class="socicon-youtube"></i></a>
-				</li>
-			</ul>-->
+			</ul>
 			</div>
 		</footer>
 	</div>
