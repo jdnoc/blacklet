@@ -16,7 +16,7 @@ image: img/Notebook_Mockup_ISO.png
 						action="https://buttondown.email/api/emails/embed-subscribe/blacklet"
 						method="post"
 						target="popupwindow"
-						onsubmit="window.open('https://blacklet.com/thanks', 'popupwindow')"
+						onsubmit="window.open('https://buttondown.email/blacklet', 'popupwindow')"
 						class="embeddable-buttondown-form"
 						>
 						<label for="bd-email">Enter your email</label>
@@ -226,6 +226,23 @@ image: img/Notebook_Mockup_ISO.png
 					</div>
 				</div>
 			</div>
+			<div class="row">
+					<div class="col-sm-6 col-sm-offset-3 text-center">
+						<h4>Subscribers to our newsletter will get 30% off when it launches!</h4>
+						<form
+						action="https://buttondown.email/api/emails/embed-subscribe/blacklet"
+						method="post"
+						target="popupwindow"
+						onsubmit="window.open('https://buttondown.email/blacklet', 'popupwindow')"
+						class="embeddable-buttondown-form"
+						>
+						<label for="bd-email">Enter your email</label>
+						<input type="email" name="email" id="bd-email">
+						<input type="hidden" value="1" name="embed"/>
+						<input type="submit" value="Subscribe" />
+						</form>
+					</div>
+				</div>
 		</section>
 		<footer class="footer-3 bg--white text-center-xs">
 			<div class="col-sm-3">
