@@ -12,18 +12,11 @@ image: img/Notebook_Mockup_ISO.png
 						<img alt="Logo" class="logo" src="img/Blacklet-logo.png">
 						<p class="lead">The Premium Black Paper Notebook for Creatives</p>
 						<h4>Subscribers to our newsletter will get 30% off when it launches!</h4>
-						<form
-						action="https://buttondown.email/api/emails/embed-subscribe/blacklet"
-						method="post"
-						target="popupwindow"
-						onsubmit="window.open('https://buttondown.email/blacklet', 'popupwindow')"
-						class="embeddable-buttondown-form"
-						>
-						<label for="bd-email">Enter your email</label>
-						<input type="email" name="email" id="bd-email">
-						<input type="hidden" value="1" name="embed"/>
-						<input type="submit" value="Subscribe" />
-						</form>
+						<iframe
+						scrolling="no"
+						style="border:none!important;width:100%!important;height:100px;"
+						src="https://buttondown.email/blacklet?as_embed=true"
+						></iframe>
 					</div>
 				</div>
 				<div class="row">
@@ -122,7 +115,7 @@ image: img/Notebook_Mockup_ISO.png
 						</div>
 					</div>
 					<div class="col-sm-12">
-						<img alt="device" src="img/Notebook_Mockup_PaperClip.png">
+						<img alt="device" src="img/blacklet-open.png">
 					</div>
 				</div>
 			</div>
@@ -229,18 +222,11 @@ image: img/Notebook_Mockup_ISO.png
 			<div class="row">
 					<div class="col-sm-6 col-sm-offset-3 text-center">
 						<h4>Subscribers to our newsletter will get 30% off when it launches!</h4>
-						<form
-						action="https://buttondown.email/api/emails/embed-subscribe/blacklet"
-						method="post"
-						target="popupwindow"
-						onsubmit="window.open('https://buttondown.email/blacklet', 'popupwindow')"
-						class="embeddable-buttondown-form"
-						>
-						<label for="bd-email">Enter your email</label>
-						<input type="email" name="email" id="bd-email">
-						<input type="hidden" value="1" name="embed"/>
-						<input type="submit" value="Subscribe" />
-						</form>
+						<iframe
+						scrolling="no"
+						style="border:none!important;width:100%!important;height:200px;"
+						src="https://buttondown.email/blacklet?as_embed=true"
+						></iframe>
 					</div>
 				</div>
 		</section>
