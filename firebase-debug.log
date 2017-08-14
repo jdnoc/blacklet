@@ -1,0 +1,23 @@
+[debug] [2017-08-14T16:18:28.868Z] ----------------------------------------------------------------------
+[debug] [2017-08-14T16:18:28.877Z] Command:       /home/jordan/.nvm/versions/node/v7.10.0/bin/node /home/jordan/.nvm/versions/node/v7.10.0/bin/firebase deploy
+[debug] [2017-08-14T16:18:28.878Z] CLI Version:   3.9.2
+[debug] [2017-08-14T16:18:28.879Z] Platform:      linux
+[debug] [2017-08-14T16:18:28.879Z] Node Version:  v7.10.0
+[debug] [2017-08-14T16:18:28.879Z] Time:          Mon Aug 14 2017 12:18:28 GMT-0400 (EDT)
+[debug] [2017-08-14T16:18:28.879Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-08-14T16:18:28.919Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-08-14T16:18:28.920Z] > authorizing via signed-in user
+[debug] [2017-08-14T16:18:28.928Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/blacklet-notebook  
+ Mon Aug 14 2017 12:18:28 GMT-0400 (EDT)
+[debug] [2017-08-14T16:18:30.145Z] <<< HTTP RESPONSE 200
+[debug] [2017-08-14T16:18:30.151Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/blacklet-notebook/tokens  
+ Mon Aug 14 2017 12:18:30 GMT-0400 (EDT)
+[debug] [2017-08-14T16:18:31.148Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'blacklet-notebook'...
+[info] 
+[info] i  deploying hosting
+[info] i  hosting: preparing _site directory for upload...
+[debug] [2017-08-14T16:18:33.930Z] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/blacklet-notebook/uploads/-KrWXXQrIjiXYcaF-i6L?fileCount=79&message=  
+ Mon Aug 14 2017 12:18:33 GMT-0400 (EDT)
