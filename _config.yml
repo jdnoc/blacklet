@@ -1,15 +1,16 @@
 ---
 title: Blacklet
-logo: img/Blacklet-logo.png
+logo: img/blacklet-open.png
+image:
 description: The premium black paper notebook for creatives
 url: https://blacklet.com
 baseurl:
 email: contact@blacklet.com
 social:
 - title: instagram
-  url: instagram.com/getblacklet
+  url: instagram.com/theblacklet
 - title: pinterest
-  url: pinterest.com/getblacklet
+  url: pinterest.com/theblacklet
 
 gems:
   - jekyll-seo-tag
