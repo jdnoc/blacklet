@@ -1,23 +1,40 @@
-[debug] [2017-08-14T16:18:28.868Z] ----------------------------------------------------------------------
-[debug] [2017-08-14T16:18:28.877Z] Command:       /home/jordan/.nvm/versions/node/v7.10.0/bin/node /home/jordan/.nvm/versions/node/v7.10.0/bin/firebase deploy
-[debug] [2017-08-14T16:18:28.878Z] CLI Version:   3.9.2
-[debug] [2017-08-14T16:18:28.879Z] Platform:      linux
-[debug] [2017-08-14T16:18:28.879Z] Node Version:  v7.10.0
-[debug] [2017-08-14T16:18:28.879Z] Time:          Mon Aug 14 2017 12:18:28 GMT-0400 (EDT)
-[debug] [2017-08-14T16:18:28.879Z] ----------------------------------------------------------------------
+[debug] [2017-08-16T13:50:07.933Z] ----------------------------------------------------------------------
+[debug] [2017-08-16T13:50:07.938Z] Command:       C:\Program Files (x86)\nodejs\node.exe C:\Users\oconnorjm\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] [2017-08-16T13:50:07.938Z] CLI Version:   3.9.2
+[debug] [2017-08-16T13:50:07.938Z] Platform:      win32
+[debug] [2017-08-16T13:50:07.938Z] Node Version:  v6.9.0
+[debug] [2017-08-16T13:50:07.940Z] Time:          Wed Aug 16 2017 09:50:07 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-08-16T13:50:07.940Z] ----------------------------------------------------------------------
 [debug] 
-[debug] [2017-08-14T16:18:28.919Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
-[debug] [2017-08-14T16:18:28.920Z] > authorizing via signed-in user
-[debug] [2017-08-14T16:18:28.928Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/blacklet-notebook  
- Mon Aug 14 2017 12:18:28 GMT-0400 (EDT)
-[debug] [2017-08-14T16:18:30.145Z] <<< HTTP RESPONSE 200
-[debug] [2017-08-14T16:18:30.151Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/blacklet-notebook/tokens  
- Mon Aug 14 2017 12:18:30 GMT-0400 (EDT)
-[debug] [2017-08-14T16:18:31.148Z] <<< HTTP RESPONSE 200
-[info] 
-[info] === Deploying to 'blacklet-notebook'...
-[info] 
-[info] i  deploying hosting
-[info] i  hosting: preparing _site directory for upload...
-[debug] [2017-08-14T16:18:33.930Z] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/blacklet-notebook/uploads/-KrWXXQrIjiXYcaF-i6L?fileCount=79&message=  
- Mon Aug 14 2017 12:18:33 GMT-0400 (EDT)
+[debug] [2017-08-16T13:50:07.955Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-08-16T13:50:07.955Z] > authorizing via signed-in user
+[debug] [2017-08-16T13:50:07.957Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2017-08-16T13:50:07.958Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token { refresh_token: '1/xdptpi6vuQcFB9WFrTNQiWGyV084DlUfbAX8LKLjSBY',
+  client_id: '563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com',
+  client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
+  grant_type: 'refresh_token',
+  scope: 'email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid' } 
+ Wed Aug 16 2017 09:50:07 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-08-16T13:50:08.431Z] <<< HTTP RESPONSE 200
+[debug] [2017-08-16T13:50:08.440Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/blacklet-notebook  
+ Wed Aug 16 2017 09:50:08 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-08-16T13:50:09.260Z] <<< HTTP RESPONSE 200
+[debug] [2017-08-16T13:50:09.260Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/blacklet-notebook/tokens  
+ Wed Aug 16 2017 09:50:09 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-08-16T13:50:10.122Z] <<< HTTP RESPONSE 200
+[debug] [2017-08-16T13:50:25.588Z] ----------------------------------------------------------------------
+[debug] [2017-08-16T13:50:25.593Z] Command:       C:\Program Files (x86)\nodejs\node.exe C:\Users\oconnorjm\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] [2017-08-16T13:50:25.593Z] CLI Version:   3.9.2
+[debug] [2017-08-16T13:50:25.593Z] Platform:      win32
+[debug] [2017-08-16T13:50:25.594Z] Node Version:  v6.9.0
+[debug] [2017-08-16T13:50:25.595Z] Time:          Wed Aug 16 2017 09:50:25 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-08-16T13:50:25.595Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-08-16T13:50:25.608Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-08-16T13:50:25.609Z] > authorizing via signed-in user
+[debug] [2017-08-16T13:50:25.611Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/blacklet-notebook  
+ Wed Aug 16 2017 09:50:25 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-08-16T13:50:26.301Z] <<< HTTP RESPONSE 200
+[debug] [2017-08-16T13:50:26.302Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/blacklet-notebook/tokens  
+ Wed Aug 16 2017 09:50:26 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-08-16T13:50:27.070Z] <<< HTTP RESPONSE 200
