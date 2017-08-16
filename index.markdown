@@ -2,7 +2,7 @@
 layout: index 
 image: img/blacklet-open.png 
 ---
-<style></style>
+
 <body class="theme--square" data-reveal-selectors="section:not(.masonry):not(:first-of-type):not(.parallax)">
 	<div class="main-container">
 		<section class="cover cover-9">
@@ -25,7 +25,6 @@ image: img/blacklet-open.png
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center">
 						<h4>Subscribers to our newsletter will get 30% off when it launches!</h4>
-						<p class="lead">👇 Enter Your Email Right Here 👇</p>
 						<iframe
 						scrolling="no"
 						style="border:none!important;width:100%!important;height:75px;"
@@ -130,32 +129,6 @@ image: img/blacklet-open.png
 				<div class="row">
 					<div class="col-md-10 col-md-offset-1 text-center">
 						<div class="elements--title">
-							<h3>Share and Win!</h3>
-						</div>
-					</div>
-					<div class="col-md-6 text-center">
-						<h4>Enter your email for the chance to win prizes and get 30% off when it launches!</h4>
-						<p class="lead">The more people that come here and enter their email using your link, the more prizes you can get!</p>
-						<p class="lead">You can keep track of your progress by coming back to this page. <strong>You'll get an email if you reach a milestone.</strong></p>
-						<p class="lead">Check the prizes out out below!</p>
-					</div>
-					<div class="col-md-6 text-center">
-						<div data-vl-widget="embedForm"></div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-12 text-center">
-						<div data-vl-widget="milestoneWidget">
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<section>
-			<div class="container">
-				<div class="row">
-					<div class="col-md-10 col-md-offset-1 text-center">
-						<div class="elements--title">
 							<h3>Be A Part Of Something Big</h3>
 						</div>
 					</div>
@@ -183,8 +156,25 @@ image: img/blacklet-open.png
 								<p>We post cool pictures on <a href="https://instagram.com/theblacklet">Instagram</a>.
 									<br><br>We post updates on <a href="https://facebook.com/theblacklet">Facebook</a>.
 									<br><br>Another way to talk to us is <a href="https://twitter.com/theblacklet">Twitter</a>.</p>
+								<p>
+									Subscribe to our email newsletter to get the latest updates and be the first to know about giveaways and promotions!
+								</p>
 							</div>
 						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center">
+						<h4>Subscribers to our newsletter will get 30% off when it launches!</h4>
+						<iframe
+						scrolling="no"
+						style="border:none!important;width:100%!important;height:75px;"
+						src="https://buttondown.email/blacklet?as_embed=true"
+						></iframe>
 					</div>
 				</div>
 			</div>
