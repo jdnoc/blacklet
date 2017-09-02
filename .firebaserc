@@ -1,8 +1,0 @@
-{
-  "projects": {
-    "default": "blacklet-notebook"
-  },
-  "hosting": {
-    "public": "_site"
-  }
-}
